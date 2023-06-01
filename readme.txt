@@ -3,3 +3,5 @@ KKD阿萨
 安灯
 331
 12123
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
