@@ -13,3 +13,10 @@ Git has a mutable index called stage.
 adfjslldf
 adff
 123  444
+
+
+
+爱的疯狂垃圾覅浪费大家
+阿斯顿法定
+ 案发当时方法
+ 
