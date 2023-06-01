@@ -24,4 +24,4 @@ adff
 
 
  爱得发疯阿道夫
- 
+ Creating a new branch is quick AND simple.
